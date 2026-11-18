@@ -1,6 +1,6 @@
 import subprocess
 
-DB_PASSWORD = "Prod@12345678"
+DB_PASSWORD = "Prod12345678"
 
 
 def execute(user_input):
